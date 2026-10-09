@@ -532,6 +532,7 @@ code.k{display:block;font-family:ui-monospace,Menlo,Consolas,monospace;font-size
 .toast.show{transform:none;opacity:1}
 .toast.ok{border-color:rgba(255,45,85,.55)}.toast.err{border-color:rgba(255,45,85,.7);color:#ffb3c0}
 </style>
+<link rel="stylesheet" href="/static/cover.css">
 </head>
 <body>
 <div class="wrap">
